@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="中央频道", CCTV-9
-http://223.110.245.134:80/PLTV/3/224/3221225532/index.m3u8?icpid=88888888&from=0&hms_devid=3,4624
 #EXTINF:-1, group-title="中央频道", CCTV-10
 http://39.135.253.35:80/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.163_80&hms_devid=4414
 #EXTINF:-1, group-title="中央频道", CCTV-15
